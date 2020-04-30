@@ -1,0 +1,36 @@
+body {
+  background: grey;
+}
+.container {
+  background-color: White;
+  width: 90%;
+  margin: auto;
+}
+.logo {
+  float: left;
+}
+.login {
+  float: right;
+}
+.header {
+  background: green;
+  padding: 40px;
+}
+.article {
+  width: 50%;
+  text-align: justify;
+  float: left;
+}
+.photo {
+  width: 50%;
+  float: right;
+}
+.clc {
+  clear: both;
+}
+.footer {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
