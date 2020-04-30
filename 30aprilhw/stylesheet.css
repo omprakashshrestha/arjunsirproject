@@ -1,0 +1,77 @@
+/* no underline in link */
+* {
+  text-decoration: none;
+}
+
+/* Body make background grey with zero margin */
+body {
+  background: grey;
+  margin: 0;
+}
+
+/* Middle part where all the contain is written */
+.container {
+  background: white;
+  width: 90%;
+  margin: auto;
+}
+/* Contains header part */
+.header {
+  background: green;
+  padding: 20px;
+}
+.logo {
+  float: left;
+}
+.logo {
+  float: right;
+}
+.navigation {
+  background: yellow;
+  width: 100%;
+  margin: 0;
+}
+ul li {
+  list-style: none;
+  display: inline;
+  line-height: 30px;
+  padding: 20px;
+}
+
+.clc {
+  clear: both;
+}
+.article{
+  padding: 7 px;
+}
+
+.top1 {
+  text-align: justify;
+  width: 45%;
+  float: left;
+  padding: 10px;
+}
+.top2{
+ width: 45%;
+  float: right;
+}
+.article2 {
+  padding: 7px;
+}
+.mid1 {
+  text-align: justify;
+  float: left;
+  width:30%;
+  padding: 10px;
+}
+.mid2 {
+  text-align: justify;
+  width:65%;
+  float: right;
+}
+.footer {
+  background: blue;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
