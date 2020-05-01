@@ -1,0 +1,58 @@
+*{
+
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+body {
+background : lightgrey;
+font-family: sans-serif;
+
+}
+.container {
+  width: 80%;
+  background: white;
+  margin: auto;
+}
+.logo {
+  float: left;
+}
+h3 {
+  color: red;
+}
+h4 {
+  color: bl;
+}
+.contact {
+  text-align: right;
+  float:right;
+}
+.clear {
+  clear: both;
+}
+.boarder{
+  padding: 10px;
+  background: lightgrey;
+}
+.article-left {
+  text-align: justify;
+  width: 50%;
+  float: left;
+  border-right: black dotted;
+  padding: 10px;
+}
+.article-right {
+  width: 45%;
+  float:right;
+}
+footer {
+  background: blue;
+  color: white;
+  padding: 10px;
+}
+.footer-left {
+  float: left;
+}
+.footer-right {
+  float: right;
+}
